@@ -216,3 +216,9 @@ body
 	color: #ccc !important;
 }
 
+
+/* Hotfix for AlienTube */
+section#alientube
+{
+  background-color: #1b1b1b;
+}
